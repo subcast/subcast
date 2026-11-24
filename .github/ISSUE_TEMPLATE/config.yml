@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Guide and troubleshooting
+    url: https://getsubcast.com/guide
+    about: Setup steps, Shizuku help and fixes for common problems.
+  - name: Subcast Pro and license keys
+    url: mailto:support@getsubcast.com
+    about: Purchases and keys are private, so email us instead of opening an issue.
