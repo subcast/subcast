@@ -25,14 +25,14 @@
 
 ## What it does
 
-- **Wear it**. Plug in USB-C display glasses and your apps float in front of you. Black is see-through on glasses, so the dock and windows hang in the air.
-- **A real desktop**. Move, resize, minimize and maximize apps. Switch from the taskbar or with Alt+Tab. Apps reopen if the display disconnects.
-- **Your phone is the trackpad**. Slide to move the pointer, tap to click, hold and slide to drag. Scroll along the right edge or with two fingers.
-- **Or just point**. Turn on the laser pointer and aim your phone at the screen. The pointer follows.
-- **Type anywhere**. Your phone's keyboard types into the app on the display, or connect a Bluetooth or USB keyboard and mouse.
-- **One app, the whole screen**. Cast a single app full screen and it gets the display's width, so wide layouts use it.
-- **Phone screen off**. One tap turns the phone screen off while the display keeps going, saving battery.
-- **Glasses, monitors and TVs**. USB-C glasses and monitors, or a TV on your Wi-Fi (Miracast and cast-ready TVs).
+- **Wear it.** Plug in USB-C display glasses and your apps float in front of you. Black is see-through on glasses, so the dock and windows hang in the air.
+- **A real desktop.** Move, resize, minimize and maximize apps. Switch from the taskbar or with Alt+Tab. Apps reopen if the display disconnects.
+- **Your phone is the trackpad.** Slide to move the pointer, tap to click, hold and slide to drag. Scroll along the right edge or with two fingers.
+- **Or just point.** Turn on the laser pointer and aim your phone at the screen. The pointer follows.
+- **Type anywhere.** Your phone's keyboard types into the app on the display, or connect a Bluetooth or USB keyboard and mouse.
+- **One app, the whole screen.** Cast a single app full screen and it gets the display's width, so wide layouts use it.
+- **Phone screen off.** One tap turns the phone screen off while the display keeps going, saving battery.
+- **Glasses, monitors and TVs.** USB-C glasses and monitors, or a TV on your Wi-Fi (Miracast and cast-ready TVs).
 
 ## Get started
 
